@@ -1,6 +1,6 @@
 ```
 PHP ID3 TagReader Class with APIC & Waveform-Image.
-Gather information about File properties, mp3-Header und -properties, ID3V1 und -V3 Tags, APE- und Lyrics Tags (available).
+Gather information about File properties, mp3-Header and -properties, ID3V1 and -V3 Tags, APE- und Lyrics Tags (available).
 
 
 PHP ID3 TagReader Klasse mit APIC & Anzeige der Wellenform als Bild.
